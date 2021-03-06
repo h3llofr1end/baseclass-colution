@@ -1,0 +1,19 @@
+{
+    "name": "h3llofr1end/structure-class",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Yuri Dotsya",
+            "email": "yuriy.dotsya@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "classmap": [
+            "app/"
+        ]
+    }
+}
